@@ -16,3 +16,9 @@ The following dependencies need to be installed:
 
 `make`
 
+## Flashing
+
+Ensure power is applied to board, and connect AVR programmer to ICSP pins. Then run:
+
+`make flash`
+
